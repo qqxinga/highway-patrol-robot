@@ -1,0 +1,31 @@
+{
+  "source": "embed-ai-tool",
+  "version": "1.0.0",
+  "installed_at": "2026-05-30T18:30:00+08:00",
+  "skills": [
+    "build-cmake",
+    "build-iar",
+    "build-idf",
+    "build-keil",
+    "build-makefile",
+    "build-platformio",
+    "can-debug",
+    "debug-gdb-openocd",
+    "debug-jlink",
+    "debug-platformio",
+    "flash-idf",
+    "flash-jlink",
+    "flash-keil",
+    "flash-openocd",
+    "flash-platformio",
+    "memory-analysis",
+    "modbus-debug",
+    "peripheral-driver",
+    "rtos-debug",
+    "serial-monitor",
+    "static-analysis",
+    "stm32-hal-development",
+    "visa-debug",
+    "workflow"
+  ]
+}

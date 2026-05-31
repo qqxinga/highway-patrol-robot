@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /tmp/embed-ai-tool/skills/)",
+      "Read(//tmp/embed-ai-tool/**)",
+      "Bash(cp -r /tmp/embed-ai-tool/skills/* \"e:/code/skills/.claude/skills/\")",
+      "Bash(cp -r /tmp/embed-ai-tool/shared \"e:/code/skills/.claude/skills/\")",
+      "Bash(mkdir -p \"e:/code/skills/.claude/skills/embed-ai-tool\")",
+      "Bash(cp /tmp/embed-ai-tool/SKILL.md \"e:/code/skills/.claude/skills/embed-ai-tool/SKILL.md\")"
+    ]
+  }
+}
